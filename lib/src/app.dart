@@ -1,4 +1,3 @@
-import 'package:app_gridview/src/screens/descripcion.dart';
 import 'package:app_gridview/src/screens/splashscreen.dart';
 import 'package:flutter/material.dart';
 
